@@ -21,5 +21,5 @@ In my (very limited) free time I am passionate about reading, trying new recipes
 
 ## Let's Connect
 
-- [LinkedIn]: (https://www.linkedin.com/in/shelby-pagan-12baa493/)
+- LinkedIn: https://www.linkedin.com/in/shelby-pagan-12baa493/
 
