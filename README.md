@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Alt Text](URL)
+![Github Banner](https://github.com/shelbyyy16/Shelbyyy16/blob/main/GithubBanner.gif?raw=true)
 
 <!--
 **shelbyyy16/Shelbyyy16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
