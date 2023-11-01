@@ -16,7 +16,7 @@ In my (very limited) free time I am passionate about reading, trying new recipes
 
 ## Projects
 
-- [Project 1]: A broswer based game 
+- [Cart Quest](https://github.com/shelbyyy16/Project-1): A broswer based Simon game 
 
 
 ## Let's Connect
