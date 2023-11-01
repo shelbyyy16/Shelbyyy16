@@ -16,7 +16,7 @@ In my (very limited) free time I am passionate about reading, trying new recipes
 
 ## Projects
 
-- [Cart Quest](https://github.com/shelbyyy16/Project-1): A broswer based Simon game 
+- [Cart Quest](https://github.com/shelbyyy16/Project-1): Cart Quest is a short term memory game that consists of being shown a sequence and repeating it back. With each level successfully beaten, the next level gets harder, adding more to the sequence each time.
 
 
 ## Let's Connect
