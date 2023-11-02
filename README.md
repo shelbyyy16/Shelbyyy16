@@ -16,7 +16,7 @@ In my (very limited) free time I am passionate about reading, trying new recipes
 
 ## Projects
 
-- [Cart Quest](https://github.com/shelbyyy16/Project-1): Cart Quest is a short term memory game that consists of being shown a sequence and repeating it back. With each level successfully beaten, the next level gets harder, adding more to the sequence each time.
+- [Cart Quest](https://github.com/shelbyyy16/Project-1): Cart Quest is a memory game where you must remember and repeat a sequence of grocery items. It keeps track of your wins and losses and offers increasingly challenging levels as you progress through the game. Messages are displayed to guide you, and buttons appear and disappear to control your interactions.
 
 
 ## Let's Connect
