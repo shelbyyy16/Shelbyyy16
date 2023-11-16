@@ -12,7 +12,9 @@ In my (very limited) free time I am passionate about reading, trying new recipes
 ## Current Languages
 - HTML
 - CSS
-- Javascrip
+- Javascript
+- Mongo
+- EJS
 
 ## Projects
 
