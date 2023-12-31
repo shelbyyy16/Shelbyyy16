@@ -11,9 +11,13 @@ In my (very limited) free time I am passionate about reading, trying new recipes
 
 ## Projects
 
+- [Petals & Pots](https://petalsandpots.netlify.app/): Petals & Pots is a gardening app that brings the joy of cultivating plants right to your fingertips. With a sleek and user-friendly interface, this app is a perfect companion for both seasoned gardeners and beginners. Built with React, the app allows you to explore a vast library of indoor and outdoor plants, complete with detailed information and beautiful images.
+
 - [Cart Quest](https://github.com/shelbyyy16/Project-1): Cart Quest is a memory game where you must remember and repeat a sequence of grocery items. It keeps track of your wins and losses and offers increasingly challenging levels as you progress through the game. Messages are displayed to guide you, and buttons appear and disappear to control your interactions.
 
 - [Portfolio](https://github.com/shelbyyy16/react-portfolio): This portfolio was built using React to showcases my skills, projects, and experiences as a Software Engineer.
+
+
 
 
 ## Let's Connect
