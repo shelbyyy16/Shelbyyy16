@@ -2,7 +2,7 @@
 
 ![Github Banner](https://github.com/shelbyyy16/Shelbyyy16/blob/main/Github%20Banner.gif?raw=true)
 
-# Hi, I'm Shelby. Welcome to my corner of the internet! 
+# Hi, I'm Shelby. Welcome to my corner of the internet.
 
 ## About Me
 
