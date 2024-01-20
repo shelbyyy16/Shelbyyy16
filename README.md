@@ -11,6 +11,8 @@ In my (very limited) free time I am passionate about reading, trying new recipes
 
 ## Projects
 
+- [SPL/T](https://split-expense-deploy-b0bffae153fd.herokuapp.com) Effortless Expense Splitting for Seamless Friendships – Share the Load, Not the Stress! A Django and Python powered application to take the confusion and fuss out of splitting expenses. Create Groups with your friends, add expenses and divide evenly; keeping the process quick, easy and fair.
+
 - [Petals & Pots](https://petalsandpots.netlify.app/): Petals & Pots is a gardening app that brings the joy of cultivating plants right to your fingertips. With a sleek and user-friendly interface, this app is a perfect companion for both seasoned gardeners and beginners. Built with React, the app allows you to explore a vast library of indoor and outdoor plants, complete with detailed information and beautiful images.
 
 - [Cart Quest](https://github.com/shelbyyy16/Project-1): Cart Quest is a memory game where you must remember and repeat a sequence of grocery items. It keeps track of your wins and losses and offers increasingly challenging levels as you progress through the game. Messages are displayed to guide you, and buttons appear and disappear to control your interactions.
@@ -39,4 +41,10 @@ In my (very limited) free time I am passionate about reading, trying new recipes
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
