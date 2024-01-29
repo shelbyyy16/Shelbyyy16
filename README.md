@@ -17,7 +17,7 @@ In my (very limited) free time I am passionate about reading, trying new recipes
 
 - [Cart Quest](https://github.com/shelbyyy16/Project-1): Cart Quest is a memory game where you must remember and repeat a sequence of grocery items. It keeps track of your wins and losses and offers increasingly challenging levels as you progress through the game. Messages are displayed to guide you, and buttons appear and disappear to control your interactions.
 
-- [Portfolio](https://github.com/shelbyyy16/react-portfolio): A well structured portfolio built using React showcasing my professional journey, skills, and project accomplishments. It integrates design and functionality, providing an engaging and informative user experience.
+- [Portfolio](https://github.com/shelbyyy16/Shelby-Pagan-Portfolio): A well structured portfolio built using React showcasing my professional journey, skills, and project accomplishments. It integrates design and functionality, providing an engaging and informative user experience.
 
 
 
