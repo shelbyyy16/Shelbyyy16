@@ -26,6 +26,7 @@ In my (very limited) free time I am passionate about reading, trying new recipes
 - Email: shelby.e.pagan.gmail.com
 - [LinkedIn](https://www.linkedin.com/in/shelbypagan/)
 
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
